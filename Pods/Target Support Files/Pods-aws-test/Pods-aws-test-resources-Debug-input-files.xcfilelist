@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-aws-test/Pods-aws-test-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/AWSAuthUI/AWSAuthUI.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/AWSUserPoolsSignIn/AWSUserPoolsSignIn.bundle
